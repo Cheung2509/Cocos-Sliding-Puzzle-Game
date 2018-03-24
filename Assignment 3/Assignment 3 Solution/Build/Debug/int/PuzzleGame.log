@@ -1,0 +1,5 @@
+﻿  AppDelegate.cpp
+  MainMenu.cpp
+  GameSetting.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Classes\MainMenu.cpp': No such file or directory
+d:\esd\assignment 3\assignment 3 solution\classes\appdelegate.cpp(2): fatal error C1083: Cannot open include file: 'MainMenu.h': No such file or directory
